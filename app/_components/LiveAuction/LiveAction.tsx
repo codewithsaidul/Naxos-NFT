@@ -19,7 +19,7 @@ const LiveAction = () => {
         <div className="flex flex-col gap-[40px] lg:flex-row lg:gap-[89px]">
             {/*=========================== Monkey Frame ========================== */}
             <div ref={containerRef}
-                 className="relative h-[243px] rounded-lg overflow-hidden bg-gradient-to-b from-[#EF962E] to-[#FFAF36] lg:h-[601] lg:flex-1 lg:rounded-3xl">
+                 className="relative h-[243px] rounded-lg overflow-hidden bg-gradient-to-b from-[#EF962E] to-[#FFAF36] lg:h-[601px] lg:flex-1 lg:rounded-3xl">
                 <motion.div
                     style={{y: monkeyY}}
                     className="w-full h-full relative bottom-0 left-0 right-0 mx-auto"

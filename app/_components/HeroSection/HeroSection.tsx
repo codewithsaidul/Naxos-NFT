@@ -69,7 +69,7 @@ const HeroSection = () => {
         </div>
 
         {/* small info */}
-        <span className="flex w-[202] items-center justify-center text-center text-[7px] leading-3 lg:order-1 lg:text-start lg:leading-6 lg:text-14">
+        <span className="flex w-[202px] items-center justify-center text-center text-[7px] leading-3 lg:order-1 lg:text-start lg:leading-6 lg:text-14">
           <TextAnimation delay={1} divideBy="word">
             Lorem Ispum is simply the dummy text for printing and typesetting
             industry. Lorem ispum has been the industries standard text over.

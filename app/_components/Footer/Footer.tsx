@@ -66,9 +66,9 @@ const Footer = () => {
           }
         >
           <div>
-            <span className={"text-16"}>Create, Sell and Collect</span>
+            <span className={"text-16 lg:text-25"}>Create, Sell and Collect</span>
             <br />
-            <span className={"text-16 font-bold"}>NFT Digital Art</span>
+            <span className={"text-16 lg:text-25 font-bold"}>NFT Digital Art</span>
           </div>
 
           {/* Social Icons */}
